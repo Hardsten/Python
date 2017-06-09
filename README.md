@@ -1,4 +1,4 @@
-<h1>Random python codes that I have done.</h1>
+<h1>Random python codes.</h1>
 
 
 * The files <b>data.py, mail.py, print_and_logg.py</b> and <b>ser_status.py</b> belongs together.

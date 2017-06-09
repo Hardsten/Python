@@ -9,6 +9,6 @@ It is a project I worked on from time to time, with a Raspberry pi that acted as
 
 * The <b>relay_all_on.py</b> and <b>proj_on.py</b> is some automation examples, to turn on a projector or switch a serial connected relay (USB-RLY02) to closed state. (Projector hex code may vary)
 
-* <b>musicbox.py</b> is for making a RPi act as a mediaplayer, witch plays a .wav file upon button input.
+* <b>musicbox.py</b> is for making a RPi act as a audio-player, witch plays a .wav file on button input.
 
 * The <b>echo_client.py</b> and <b>echo_server.py</b> is examples for client/server connection.

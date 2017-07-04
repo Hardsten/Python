@@ -12,3 +12,5 @@ It is a project I worked on from time to time, with a Raspberry pi that acted as
 * <b>musicbox.py</b> is for making a RPi act as a audio-player, witch plays a .wav file on button input.
 
 * The <b>echo_client.py</b> and <b>echo_server.py</b> is examples for client/server connection.
+
+* The <b>proj_on-off.py</b> is a little script that automates turning on and off two benq projectors, connected to one RaspberryPi. The file was in this case putted into the /boot/ folder of the RPi, and a cron job was running on the file every 3:d minute. I placed it there so it could be changed without having to connect the RPi to a network.
